@@ -2,7 +2,7 @@
 
 This project presents an interactive **Power BI dashboard** analyzing the **US equity market during 2016–2017**. The goal of this analysis is to understand market structure, sector-wise dominance, valuation patterns, dividend performance, and stock volatility using key financial metrics.
 
-https://app.powerbi.com/links/4LDn0nF5vM?ctid=c30f7e5d-d78c-44b6-be17-02d4b3e5cd5c&pbi_source=linkShare
+Dashboard - https://app.powerbi.com/links/4LDn0nF5vM?ctid=c30f7e5d-d78c-44b6-be17-02d4b3e5cd5c&pbi_source=linkShare
 
 ## Dataset Scope & Representation
 
