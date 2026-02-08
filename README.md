@@ -1,2 +1,32 @@
-# US-Equity-Market-Analysis
-An interactive Power BI dashboard analyzing the US equity market (2016–2017), focusing on market capitalization, valuation metrics, dividend yield, and stock volatility.
+## 📊 US Equity Market Analysis Dashboard (2016–2017)
+
+This project presents an interactive **Power BI dashboard** analyzing the **US equity market during 2016–2017**. The goal of this analysis is to understand market structure, sector-wise dominance, valuation patterns, dividend performance, and stock volatility using key financial metrics.
+
+### 🎯 Objectives
+
+* Analyze overall **market capitalization** and its distribution across sectors
+* Compare company valuations using **P/E Ratio and Price-to-Book Ratio**
+* Identify **top companies by market capitalization**
+* Highlight **high dividend yield stocks**
+* Assess stock **volatility using 52-week price range**
+
+### 📈 Key Dashboard Features
+
+* Market Overview with KPI cards (Total Market Cap, Avg P/E, Avg Dividend Yield, Number of Companies)
+* Sector-wise Market Cap Treemap
+* Valuation Scatter Plot (P/E vs Price/Book with Market Cap as bubble size)
+* Top 10 Companies by Market Capitalization
+* Dividend Yield & Volatility analysis with interactive filters
+
+### 🛠️ Tools & Technologies
+
+* **Power BI**
+* **DAX** for calculated measures
+* **Data Modeling & Cleaning**
+* **Interactive Data Visualization**
+
+### 🧠 Key Learnings
+
+This project helped me strengthen my understanding of **financial data analysis**, **dashboard design principles**, and **data storytelling**, while translating complex market data into clear and actionable insights.
+
+> ⚠️ *Note:* The dataset represents historical market data (2016–2017) and is intended for analytical and learning purposes, not real-time investment decisions.
